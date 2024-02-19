@@ -1,1 +1,1 @@
-# This is my first game
+Contributed to the development of the 'Space Invaders' game project during a high-intensity game jam challenge organized by Code For All, showcasing teamwork, creativity, and problem-solving skills in a fast-paced and collaborative coding environment. It is a full JAVA project.
